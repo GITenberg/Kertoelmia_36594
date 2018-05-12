@@ -1,0 +1,31 @@
+_repo: Kertoelmia_36594
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kiellman-Göransson, Julius Axel
+    alias: Nepomuk
+    birthdate: 1811
+    deathdate: 1869
+    gutenberg_agent_id: '38371'
+    url: http://www.gutenberg.org/2009/agents/38371
+description: ''
+gutenberg_issued: '2011-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36594'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+tableOfContents: Kelvollisuus on puolustusta parempi -- Ihminen päättää, Jumala säätää
+  -- Joka kaivaa kuoppaa toiselle, lankee itse siihen -- Parempi myöhäänkin, kun ei
+  koskaan.
+title: Kertoelmia
+url: http://www.gutenberg.org/ebooks/36594
